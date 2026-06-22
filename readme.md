@@ -126,7 +126,7 @@ Example outputs include:
 ```text
 ARGUS/
 │
-├── ARGUS - Aerial Intelligence Platform.ipynb
+├── ARGUS - Airspace Intelligence Platform.ipynb
 ├── README.md
 ├── requirements.txt
 └── .gitignore
